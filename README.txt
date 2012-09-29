@@ -1,0 +1,1 @@
+In this repo I am going to work through the exercises for learn python the hard way.
